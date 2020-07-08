@@ -1,2 +1,15 @@
 # Protheus-Janela-Processamento
-FunÃ§Ã£o Advpl  - Janela Processamento Customizada 
+Função Advpl  - Janela Processamento Customizada 
+
+
+* Semelhante a função FwMsgRun()
+* Possui 8 modelos de processamento além de permitir um SVG customizado. 
+
+
+![U_LbMsgRun.gif](./resource/U_LbMsgRun.gif)
+
+## ?? Tecnologias
+
+Esse projeto foi desenvolvido com a seguinte tecnologia:
+
+- [Advpl](https://tdn.totvs.com/display/tec/AdvPL)
