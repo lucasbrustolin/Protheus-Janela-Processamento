@@ -6,7 +6,7 @@ Função Advpl  - Janela Processamento Customizada
 * Possui 8 modelos de processamento além de permitir um SVG customizado. 
 
 
-![U_LbMsgRun.gif](./resource/U_LbMsgRun.gif)
+![U_LbMsgRun.gif](./src/resource/U_LbMsgRun.gif)
 
 ## ?? Tecnologias
 
