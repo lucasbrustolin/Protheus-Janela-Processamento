@@ -12,6 +12,13 @@ Observação: Exemplo de uso segue no próprio fonte.
 
 ![U_LbMsgRun.gif](./src/resource/U_LbMsgRun.gif)
 
+
+Loading SVG foram retirados do site https://loading.io/
+
+* Customize e adicione novos modelos.
+
+![LoadingIO.png](./src/resource/LoadingIO.png)
+
 ## ?? Tecnologias
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
